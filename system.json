@@ -24,6 +24,9 @@
     },
     {
       "name": "drowzero0"
+    },
+    {
+      "name": "menowryan"
     }
   ],
   "scripts": [],
@@ -212,7 +215,7 @@
   "gridUnits": "m",
   "primaryTokenAttribute": null,
   "secondaryTokenAttribute": null,
-  "url": "https://github.com/OctarineSourcerer/cyberpunk2020",
-  "manifest": "https://raw.githubusercontent.com/OctarineSourcerer/cyberpunk2020/main/system.json",
-  "download": "https://github.com/OctarineSourcerer/cyberpunk2020/archive/v0.3.12.zip"
+  "url": "https://github.com/menowryan/cyberpunk2020",
+  "manifest": "https://raw.githubusercontent.com/menowryan/cyberpunk2020/main/system.json",
+  "download": "https://github.com/menowryan/cyberpunk2020/archive/v0.9.0.zip"
 }
