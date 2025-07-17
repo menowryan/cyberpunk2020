@@ -12,7 +12,6 @@
     "systems": [],
     "requires": []
   },
-  "templateVersion": 2,
   "authors": [
     {
       "name": "OctarineSourceror",
@@ -210,11 +209,13 @@
   ],
   "socket": false,
   "initiative": "1d10x10 + @stats.ref.total + @skills.CombatSense.value",
-  "gridDistance": 5,
-  "gridUnits": "m",
+  "grid": {
+    "distance": 5,
+    "units": "m"
+  },
   "primaryTokenAttribute": null,
   "secondaryTokenAttribute": null,
   "url": "https://github.com/menowryan/cyberpunk2020",
   "manifest": "https://raw.githubusercontent.com/menowryan/cyberpunk2020/main/system.json",
-  "download": "https://github.com/menowryan/cyberpunk2020/release/v0.9.0.zip"
+  "download": "https://github.com/menowryan/cyberpunk2020/release/v0.9.1.zip"
 }
