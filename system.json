@@ -216,6 +216,6 @@
   "primaryTokenAttribute": null,
   "secondaryTokenAttribute": null,
   "url": "https://github.com/menowryan/cyberpunk2020",
-  "manifest": "https://raw.githubusercontent.com/menowryan/cyberpunk2020/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/menowryan/cyberpunk2020/refs/tags/v0.9.1/system.json",
   "download": "https://github.com/menowryan/cyberpunk2020/release/v0.9.1.zip"
 }
